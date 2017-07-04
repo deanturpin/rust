@@ -1,0 +1,3 @@
+- ```sudo apt install rustc```
+- https://www.rust-lang.org/en-US/install.html
+- https://tomordonez.com/install-rust-on-ubuntu/
